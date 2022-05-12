@@ -295,7 +295,7 @@ body {
 
 .announcements {
   grid-area: announcements;
-  margin-bottom: 2rem;
+  margin-bottom: 2.2rem;
 }
 
 .announcements .card {
