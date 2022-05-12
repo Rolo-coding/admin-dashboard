@@ -4,8 +4,8 @@
 
 ## Links
 
-[Live Demo](https://rolo-coding.github.io/admin-dashboard)
-[Link to Odin Assignment](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
+- [Live Demo](https://rolo-coding.github.io/admin-dashboard)
+- [Link to Odin Assignment](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
 
 ## Grid layout
 
