@@ -26,7 +26,7 @@ html {
 *::after {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: inherit;
 }
 
 a {
@@ -238,17 +238,12 @@ body {
   grid-area: projects;
 }
 
-.content h3 {
-  font-size: 1.3rem;
-  margin-bottom: 0.8rem;
-}
-
 .projects .cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   grid-auto-rows: 240px;
   gap: 2rem;
-  margin-bottom: 2rem;
+  padding-bottom: 2rem;
 }
 
 .projects .card {
